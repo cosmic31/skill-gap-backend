@@ -1,0 +1,124 @@
+skill,resource_type,title,url
+machine learning,course,Machine Learning A-Z,https://www.udemy.com/course/machinelearning
+machine learning,blog,Machine Learning Mastery Blog,https://machinelearningmastery.com
+machine learning,github,Awesome Machine Learning,https://github.com/josephmisiti/awesome-machine-learning
+
+python,course,Python for Everybody,https://www.coursera.org/specializations/python
+python,blog,Real Python Tutorials,https://realpython.com
+python,github,Awesome Python,https://github.com/vinta/awesome-python
+
+pandas,course,Data Analysis with Pandas,https://www.coursera.org/projects/data-analysis-pandas-python
+pandas,blog,Pandas Documentation Blog,https://pandas.pydata.org/blog
+pandas,github,Pandas Examples,https://github.com/pandas-dev/pandas
+
+deep learning,course,Deep Learning Specialization,https://www.coursera.org/specializations/deep-learning
+deep learning,blog,Deep Learning Blog,https://towardsdatascience.com/tagged/deep-learning
+deep learning,github,Awesome Deep Learning,https://github.com/ChristosChristofidis/awesome-deep-learning
+
+tensorflow,course,TensorFlow Developer Certificate,https://www.coursera.org/professional-certificates/tensorflow-in-practice
+tensorflow,blog,TensorFlow Blog,https://blog.tensorflow.org
+tensorflow,github,TensorFlow Models,https://github.com/tensorflow/models
+
+keras,course,Deep Learning with Keras,https://www.udemy.com/course/deep-learning-with-keras
+keras,blog,Keras Blog,https://keras.io/blog
+keras,github,Keras Examples,https://github.com/keras-team/keras-io
+
+sql,course,SQL for Data Science,https://www.coursera.org/learn/sql-for-data-science
+sql,blog,SQLZoo Tutorials,https://www.sqlzoo.net
+sql,github,SQL Cheat Sheet,https://github.com/denysdovhan/sql-cheatsheet
+
+database,course,Databases and SQL for Data Science,https://www.coursera.org/learn/sql-for-data-science
+database,blog,Database Journal,https://www.databasejournal.com
+database,github,Database Learning Resources,https://github.com/learn-anything/databases
+
+programming,course,CS50 Introduction to Programming,https://cs50.harvard.edu/x
+programming,blog,FreeCodeCamp Blog,https://www.freecodecamp.org/news
+programming,github,Awesome Programming Languages,https://github.com/lnishan/awesome-programming-languages
+
+html,course,Front-End Web Development,https://www.udemy.com/course/front-end-web-development
+html,blog,MDN HTML Guide,https://developer.mozilla.org/en-US/docs/Web/HTML
+html,github,HTML Projects,https://github.com/mdn/html-examples
+
+css,course,Front-End Web Development,https://www.udemy.com/course/front-end-web-development
+css,blog,MDN CSS Guide,https://developer.mozilla.org/en-US/docs/Web/CSS
+css,github,Awesome CSS,https://github.com/awesome-css-group/awesome-css
+
+javascript,course,JavaScript Bootcamp,https://www.udemy.com/course/the-complete-javascript-course
+javascript,blog,JavaScript Info,https://javascript.info
+javascript,github,Awesome JavaScript,https://github.com/sorrycc/awesome-javascript
+
+react,course,React Frontend Bootcamp,https://www.udemy.com/course/react-bootcamp
+react,blog,React Official Docs,https://react.dev
+react,github,Awesome React,https://github.com/enaqx/awesome-react
+
+flask,course,Flask Web Development,https://www.udemy.com/course/python-flask-for-beginners
+flask,blog,Flask Documentation,https://flask.palletsprojects.com
+flask,github,Flask Examples,https://github.com/pallets/flask
+
+tableau,course,Data Visualization with Tableau,https://www.coursera.org/learn/data-visualization-tableau
+tableau,blog,Tableau Blog,https://www.tableau.com/blog
+tableau,github,Tableau Public Samples,https://github.com/tableau
+
+excel,course,Excel for Data Analysis,https://www.coursera.org/learn/excel-data-analysis
+excel,blog,Excel Easy Blog,https://www.excel-easy.com
+excel,github,Excel Data Projects,https://github.com/jeffreyatw/excel-projects
+
+powerbi,course,Power BI Fundamentals,https://learn.microsoft.com/power-bi
+powerbi,blog,Power BI Blog,https://powerbi.microsoft.com/blog
+powerbi,github,Power BI Samples,https://github.com/microsoft/PowerBI-Samples
+
+statistics,course,Statistics for Data Science,https://www.coursera.org/learn/statistics-for-data-science
+statistics,blog,Statistics Explained,https://towardsdatascience.com
+statistics,github,Statistics Notes,https://github.com/ageron/handson-ml
+
+analytics,course,Analytics for Decision Making,https://www.coursera.org/learn/analytics-for-decision-making
+analytics,blog,Analytics Vidhya,https://www.analyticsvidhya.com
+analytics,github,Awesome Analytics,https://github.com/onurakpolat/awesome-analytics
+
+docker,course,Docker for Beginners,https://www.udemy.com/course/docker-for-the-absolute-beginner
+docker,blog,Docker Official Blog,https://www.docker.com/blog
+docker,github,Docker Getting Started,https://github.com/docker/getting-started
+
+kubernetes,course,Kubernetes for Beginners,https://www.udemy.com/course/learn-kubernetes
+kubernetes,blog,Kubernetes Blog,https://kubernetes.io/blog
+kubernetes,github,Kubernetes Examples,https://github.com/kubernetes/examples
+
+linux,course,Linux Command Line Basics,https://www.udemy.com/course/linux-command-line-volume1
+linux,blog,Linux Foundation Blog,https://www.linuxfoundation.org/blog
+linux,github,The Art of Command Line,https://github.com/jlevy/the-art-of-command-line
+
+jenkins,course,Jenkins CI/CD Pipeline,https://www.udemy.com/course/jenkins-from-zero-to-hero
+jenkins,blog,Jenkins Blog,https://www.jenkins.io/blog
+jenkins,github,Jenkins Pipeline Examples,https://github.com/jenkinsci/pipeline-examples
+
+aws,course,AWS Cloud Practitioner,https://www.udemy.com/course/aws-certified-cloud-practitioner
+aws,blog,AWS Official Blog,https://aws.amazon.com/blogs
+aws,github,AWS Samples,https://github.com/aws-samples
+
+cybersecurity,course,Cybersecurity Fundamentals,https://www.coursera.org/learn/intro-cyber-security
+cybersecurity,blog,The Hacker News,https://thehackernews.com
+cybersecurity,github,Awesome Cybersecurity,https://github.com/sbilly/awesome-security
+
+cryptography,course,Cryptography I,https://www.coursera.org/learn/crypto
+cryptography,blog,Crypto 101,https://www.crypto101.io
+cryptography,github,Awesome Cryptography,https://github.com/sobolevn/awesome-cryptography
+
+firewalls,course,Network Security and Firewalls,https://www.coursera.org/learn/network-security
+firewalls,blog,Palo Alto Networks Blog,https://www.paloaltonetworks.com/blog
+firewalls,github,Iptables Essentials,https://github.com/trimstray/iptables-essentials
+
+penetration testing,course,Penetration Testing and Ethical Hacking,https://www.coursera.org/learn/penetration-testing
+penetration testing,blog,PortSwigger Web Security Blog,https://portswigger.net/blog
+penetration testing,github,OWASP WebGoat,https://github.com/WebGoat/WebGoat
+
+cicd,course,CI/CD Pipelines with Jenkins,https://www.coursera.org/learn/continuous-integration
+cicd,blog,Atlassian CI/CD Blog,https://www.atlassian.com/continuous-delivery
+cicd,github,CI/CD Pipeline Examples,https://github.com/jenkinsci/pipeline-examples
+
+cloud,course,Cloud Computing Basics,https://www.coursera.org/learn/cloud-computing-basics
+cloud,blog,AWS Official Blog,https://aws.amazon.com/blogs
+cloud,github,Awesome Cloud Computing,https://github.com/learn-anything/cloud-computing
+
+git,course,Version Control with Git,https://www.coursera.org/learn/version-control-with-git
+git,blog,Git SCM Documentation Blog,https://git-scm.com/blog
+git,github,Pro Git Book Repository,https://github.com/progit/progit2

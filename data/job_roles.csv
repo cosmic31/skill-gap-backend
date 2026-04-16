@@ -1,0 +1,11 @@
+job_role,required_skills,domain
+Data Scientist,"python, machine learning, pandas, scikit-learn, sql, data visualization, ai, data analysis",IT
+Web Developer,"html, css, javascript, react, nodejs, mongodb",IT
+AI Engineer,"python, tensorflow, keras, deep learning, nlp, pytorch, ai",IT
+Backend Developer,"python, flask, django, sql, api, database, server-side",IT
+Frontend Developer,"html, css, javascript, react, ui/ux, web design, frontend",IT
+Machine Learning Engineer,"python, scikit-learn, tensorflow, keras, pandas, numpy, matplotlib",IT
+Data Analyst,"excel, sql, python, data visualization, powerbi, tableau, statistics",IT
+DevOps Engineer,"linux, docker, kubernetes, aws, ci/cd, git, jenkins, cloud",IT
+Cybersecurity Analyst,"network security, cryptography, penetration testing, linux, firewalls, security",IT
+Database Administrator,"sql, mysql, mongodb, oracle, database management",IT
