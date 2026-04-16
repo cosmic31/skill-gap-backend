@@ -15,7 +15,7 @@ from modules.db import save_result
 from modules.market_analysis import get_demand_supply
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "https://skill-gap-frontend-eight.vercel.app"}})
 
 # ==============================
 # LOAD DATASETS
